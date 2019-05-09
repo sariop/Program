@@ -1,17 +1,17 @@
 
 
-#EXTM3U
+
 
 #EXTINF:-1Planet Sport 1
-Planet Sport 1
+
 #EXTINF:-1Planet Sport 2
-Planet Sport 2
+
 #EXTINF:-1Planet Sport 3
-Planet Sport 3
+
 #EXTINF:-1Planet Sport 4
-Planet Sport 4
+
 #EXTINF:-1Planet Sport 5
-Planet Sport 5
+
 #EXTINF:-1Arena Sport 1 HD (hr) 
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/18.ts|User-Agent=sportstv
 #EXTINF:-1,Arena Sport 1 HD (hr)
@@ -37,7 +37,7 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26113
 #EXTINF:-1,Arena Sport 6 HD (hr)
 http://bb1.sendevrc.com:80/n5rgG99vMB/5okKvXyLdP/17394
 #EXTINF:-1Arena Sport 6 HD (hr)
-Arena Sport 6 HD (hr)
+
 #EXTINF:-1,Arena Sport 1 (sr)
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/74
 #EXTINF:-1,Arena Sport 1 HD (sr)
@@ -57,7 +57,7 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26114
 #EXTINF:-1,Arena Sport 5 (sr)
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/78
 #EXTINF:-1Arena Sport 5 HD (sr)
-Arena Sport 5 HD (sr)
+
 #EXTINF:-1,BH Premijer Liga
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26108
 #EXTINF:-1,Eurosport 1
@@ -67,19 +67,19 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26110
 #EXTINF:-1Box Nation
 
 #EXTINF:-1FightBox
-FightBox
+
 #EXTINF:-1,Fight Channel
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26109
 #EXTINF:-1Fight Network
-Fight Network
+
 #EXTINF:-1,HNTV
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26301
 #EXTINF:-1HNTV (L2)
-HNTV (L2)
+
 #EXTINF:-1Kreator TV HD
-Kreator TV HD
+
 #EXTINF:-1SOS Kanal
-SOS Kanal
+
 #EXTINF:-1,Sport Klub HD
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26097
 #EXTINF:-1,Sport Klub Start
@@ -103,31 +103,31 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26099
 #EXTINF:-1,Sport Klub 6
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26098
 #EXTINF:-1Sport Klub 7 (Only Match Time)
-Sport Klub 7
+
 #EXTINF:-1Sport Klub 8 (Only Match Time)
-Sport Klub 8
+
 #EXTINF:-1Sport Klub 9 (Only Match Time)
-Sport Klub 9
+
 #EXTINF:-1Sport Klub 10 (Only Match Time)
-Sport Klub 10
+
 #EXTINF:-1,Sport Klub Golf HD
 http://141.136.9.114:8097/play/a028
 #EXTINF:-1,Sport Klub 1 (slo)
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26106
 #EXTINF:-1Sport Klub 2 (slo)
-Sport Klub 2 (slo)
+
 #EXTINF:-1Sport Klub 3 (slo)
-Sport Klub 3 (slo)
+
 #EXTINF:-1,Šport 1 (slo)
 https://tv.si/ts/S1/stream_multi.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1Šport 1 HD (slo)
-Sport 1 HD (slo)
+
 #EXTINF:-1,Šport 2 (slo)
 https://tv.si/ts/S2/stream_multi.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1Šport 2 HD (slo)
-Sport 2 HD (slo)
+
 #EXTINF:-1Šport 3 HD (slo)
-Sport 3 HD (slo)
+
 #EXTINF:-1,SPTV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 #EXTINF:-1,TV Partizan HD
@@ -137,4 +137,4 @@ http://195.154.40.138:9001/live.ts?channelId=367&deviceSn=072016N019449&deviceMa
 #EXTINF:-1,WWE Network HD
 http://195.154.40.65:80/live.ts?channelId=254&deviceSn=072016N019449&deviceMac=00:1A:79:3C:C4:D4&uid=4572
 #EXTINF:-1WWE Wrestling HD
-WWE Wrestling HD
+
