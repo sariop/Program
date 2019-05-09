@@ -1,0 +1,235 @@
+#EXTM3U
+#EXTINF:-1,BeIN SPORTS 4K
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/3949
+#EXTINF:-1,BeIN SPORTS UHD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/450
+#EXTINF:-1,ViP SPOR 2 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/462
+#EXTINF:-1,ViP SPOR 3 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2414
+#EXTINF:-1,ViP SPOR 4 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2415
+#EXTINF:-1,ViP SPOR 1 YEDEK (Macta Acik)
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5285
+#EXTINF:-1,ViP SPOR 2 YEDEK (Macta Acik)
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5286
+#EXTINF:-1,ViP SPOR 3 YEDEK (Macta Acik)
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5287
+#EXTINF:-1,ViP SPOR 4 YEDEK (Macta Acik)
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1109
+#EXTINF:-1,ViP SPOR 5 YEDEK (Macta Acik)
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5053
+#EXTINF:-1,BeIN Sports 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1
+#EXTINF:-1,BeIN Sports 2 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2418
+#EXTINF:-1,BeIN Sports 2 SD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2
+#EXTINF:-1,BeIN Sports 3 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2419
+#EXTINF:-1,BeIN Sports 3 SD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/3
+#EXTINF:-1,BeIN Sports 4 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5
+#EXTINF:-1,BeIN Sports HD MAX 1
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1403
+#EXTINF:-1,BeIN Sports HD MAX 2
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1848
+#EXTINF:-1,S SPORT HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/963
+#EXTINF:-1,S SPORT SD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5247
+#EXTINF:-1,BeIN Sports Haber UHD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2881
+#EXTINF:-1,TRT SPOR UHD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/8
+#EXTINF:-1,A SPOR UHD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/14
+#EXTINF:-1,A SPOR SD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/3467
+#EXTINF:-1,TiViBUSPOR 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/6
+#EXTINF:-1,TiViBUSPOR 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/448
+#EXTINF:-1,TiViBUSPOR 3 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1108
+#EXTINF:-1,TiViBUSPOR 4 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5248
+#EXTINF:-1,SPOR SMART HD (D-SMART)
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/964
+#EXTINF:-1,EUROSPORT 1 HD (TR)
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/999
+#EXTINF:-1,EUROSPORT 2 HD (TR)
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1000
+#EXTINF:-1,NBA TV
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2832
+#EXTINF:-1,FR: beIN SPORTS 1 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/638
+#EXTINF:-1,FR: beIN SPORTS 2 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/683
+#EXTINF:-1,FR: beIN SPORTS 3 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/684
+#EXTINF:-1,FR: beIN SPORTS 4 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2272
+#EXTINF:-1,FR: beIN SPORTS 5 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2273
+#EXTINF:-1,FR: beIN SPORTS 6 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2274
+#EXTINF:-1,FR: beIN SPORTS 7 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2275
+#EXTINF:-1,FR: beIN SPORTS 8 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2276
+#EXTINF:-1,FR: beIN SPORTS 9 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2277
+#EXTINF:-1,FR: beIN SPORTS 10 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2278
+#EXTINF:-1,BEINSPORT 1 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/215
+#EXTINF:-1,BEINSPORT 2 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/216
+#EXTINF:-1,BEINSPORT 3 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/217
+#EXTINF:-1,BEINSPORT 4 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/218
+#EXTINF:-1,BEINSPORT 5 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/219
+#EXTINF:-1,BEINSPORT 6 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/220
+#EXTINF:-1,BEINSPORT 7 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/221
+#EXTINF:-1,BEINSPORT 8 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/222
+#EXTINF:-1,BEINSPORT 9 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/223
+#EXTINF:-1,BEINSPORT 10 HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/224
+#EXTINF:-1,Sport Klub 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/515
+#EXTINF:-1,Sport Klub 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/517
+#EXTINF:-1,Sport Klub 3 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/516
+#EXTINF:-1,Sport Klub 4 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2268
+#EXTINF:-1,Sport Klub 5 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2269
+#EXTINF:-1,Sport Klub 6 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2270
+#EXTINF:-1,UK: SKY SPORT 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/94
+#EXTINF:-1,UK: SKY SPORT 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/95
+#EXTINF:-1,UK: SKY SPORT 3 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/96
+#EXTINF:-1,UK: SKY SPORT 4 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/97
+#EXTINF:-1,UK: SKY SPORT 5 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/98
+#EXTINF:-1,BT SPORT 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/100
+#EXTINF:-1,BT SPORT 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/101
+#EXTINF:-1,ARENA SPORT 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/90
+#EXTINF:-1,ARENA SPORT 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/91
+#EXTINF:-1,ARENA SPORT 3 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/92
+#EXTINF:-1,ARENA SPORT 4 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/93
+#EXTINF:-1,ARENA SPORT 5 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1278
+#EXTINF:-1,Fox Sports 1 Eredivisie
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/183
+#EXTINF:-1,Fox Sports 2 Eredivisie
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/184
+#EXTINF:-1,Fox Sports 3 Eredivisie
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/185
+#EXTINF:-1,Fox Sports 4 Eredivisie
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/650
+#EXTINF:-1,PORTUGUESE: Sport TV 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/519
+#EXTINF:-1,PORTUGUESE: Sport TV 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/518
+#EXTINF:-1,PORTUGUESE: Sport TV 3 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/669
+#EXTINF:-1,IT: Premium Sport HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1312
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1305
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1856
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1313
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1314
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1306
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1307
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1308
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1309
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1310
+#EXTINF:-1,IT: Sky Calcio 7 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1311
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/633
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/634
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/635
+#EXTINF:-1,RO: Digi Sport 1
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/614
+#EXTINF:-1,RO: Digi Sport 2
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/609
+#EXTINF:-1,RO: Digi Sport 3
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/608
+#EXTINF:-1,RO: LOOK PLUS
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/4941
+#EXTINF:-1,RO: LOOK TV HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/4942
+#EXTINF:-1,DE: DAZN BAR 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5311
+#EXTINF:-1,DE: DAZN BAR 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5312
+#EXTINF:-1,DE: Sky Sport News HD+
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5231
+#EXTINF:-1,DE: SKY BUNDESLIGA HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/86
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/623
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/624
+#EXTINF:-1,Sky Germany BUNDESLIGA 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1095
+#EXTINF:-1,Sky Germany BUNDESLIGA 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1096
+#EXTINF:-1,Sky Germany BUNDESLIGA 3 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1097
+#EXTINF:-1,Sky Germany BUNDESLIGA 4 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1098
+#EXTINF:-1,Sky Germany BUNDESLIGA 5 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1099
+#EXTINF:-1,Sky Germany BUNDESLIGA 6 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1100
+#EXTINF:-1,Sky Germany BUNDESLIGA 7 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1101
+#EXTINF:-1,Sky Germany BUNDESLIGA 8 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1102
+#EXTINF:-1,Sky Germany BUNDESLIGA 9 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1103
+#EXTINF:-1,Sky Germany BUNDESLIGA 10 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1104
+#EXTINF:-1,DE: SPORT 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/2962
+#EXTINF:-1,DE: EURO SPORT 1 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1642
+#EXTINF:-1,DE: EURO SPORT 2 HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/1643
+#EXTINF:-1,DE: EUROSPORT 2 HD EXTRA
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/5403
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://iptv.iptv1923.com:8080/mucahid/chalette4558/3293
