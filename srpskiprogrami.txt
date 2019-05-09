@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1,RTS 1
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26159
+#EXTINF:-1,RTS 2
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26158
+#EXTINF:-1,RTS 3
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26157
+#EXTINF:-1,RTS HD
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26156
+#EXTINF:-1RTS Drama
+RTS Drama
+#EXTINF:-1RTS Kolo
+RTS Kolo
+#EXTINF:-1RTS Muzika
+RTS Muzika
+#EXTINF:-1RTS Poletarac
+RTS Poletarac
+#EXTINF:-1,RTS Svet
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26155
+#EXTINF:-1,RTS Trezor
+RTS Trezor
+#EXTINF:-1RTS Život
+RTS Zivot
+#EXTINF:-1Agro TV
+Agro TV
+#EXTINF:-1Belle Amie
+Belle Amie
+#EXTINF:-1,Happy
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26176
+#EXTINF:-1,Happy TV Parovi LIVE
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26175
+#EXTINF:-1Happy TV Parovi LIVE 2
+Happy TV Parovi LIVE 2
+#EXTINF:-1Insajder tv
+Insajder tv
+#EXTINF:-1,K::CN1
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26170
+#EXTINF:-1,K::CN 2
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26169
+#EXTINF:-1,K::CN 3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1,Leskovac TV
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+#EXTINF:-1Mag TV
+Mag TV
+#EXTINF:-1,Mlava TV
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26168
+#EXTINF:-1,N1 SRB
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26167
+#EXTINF:-1Naša TV
+Nasa TV
+#EXTINF:-1Naša Vremeplov
+Nasa Vremeplov
+#EXTINF:-1,Nova S
+http://5.254.16.98:8080/stream/?fw=true&route=srv-03&rule=null&sp=xtim&channel=hrt3&stream=orig&conn=UNKNOWN&adaptive=null&nf=3&b=3&player=
+#EXTINF:-1NTV
+http://92.60.224.62:3016/udp/239.1.1.10:22010
+#EXTINF:-1,O2 TV
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26165
+#EXTINF:-1,Palma Plus
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26164
+#EXTINF:-1,PI-KANAL
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1,Prva
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26163
+#EXTINF:-1Prva Kick
+Prva Kick
+#EXTINF:-1,Prva Max
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26162
+#EXTINF:-1,Prva Plus
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26161
+#EXTINF:-1,Prva World
+http://www.sansat.net:25461/jack0415m64/OZSls099gX/26160
+#EXTINF:0,Puls
+http://stream.rtvpuls.com/broadcasting
+#EXTINF:-1,Studio B
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
+#EXTINF:-1,Srpska Nauèna TV
+http://92.60.230.202:3054/udp/239.1.1.15:22015
+#EXTINF:-1SOS Kanal
+
+#EXTINF:-1,Telegraf TV
+http://now.tf.rs/2016/11/3/RETROSPEKTIVA_0211/RETROSPEKTIVA_0211.m3u8
+#EXTINF:-1TV Bor
+TV Bor
+#EXTINF:-1,TV Hram
+http://ott2.orion.rs:1935/livelowedge/hram.stream/playlist.m3u8?v=1&k=0&token=e0a356c809c1cb80a6cf36ca5d64760b2db89047e27061f7477c8ceac63d7b22&ak=3859874&time=1528657645911|User-Agent=Antibes 1.6.0
+#EXTINF:-1,RTV Vojvodina 1
+http://itlabnet.ddns.net:80/MojWeb/616zj6h16/750
+#EXTINF:-1,RTV Vojvodina 2
+mmsh://212.200.255.151/rtv2?MSWMExt=.asf|User-Agent=NSPlayer/4.1.0.3856
+#EXTINF:-1Zadruga Live
+Zadruga Live
+#EXTINF:-1Ženska TV
+Zenska TV
+
+
