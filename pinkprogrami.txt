@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:-1,Pink
 http://92.60.230.202:3054/udp/239.1.1.146:22146
 #EXTINF:-1,Pink 2
