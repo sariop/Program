@@ -1,16 +1,16 @@
-#EXTM3U
+
 #EXTINF:-1A1 Cinema
 http://178.132.6.97:8080/A1Cinema1/index.m3u8
 #EXTINF:-1,AMC [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
-http://92.60.230.202:3054/udp/239.1.1.126:22126
+http://93.138.100.70:4001/play/a014/index.m3u8
 #EXTINF:-1,AXN
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26287
 #EXTINF:-1,AXN Spin [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
 http://92.60.230.202:3054/udp/239.1.1.137:22137
 #EXTINF:-1Cinema TV
-Cinema TV
+
 #EXTINF:-1Cinemania
-Cinemania
+
 #EXTINF:-1,Cinemax 1
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26286
 #EXTINF:-1,Cinemax 2
@@ -22,9 +22,9 @@ http://37.26.71.125:9010/play/a03r/index.m3u8
 #EXTINF:-1,Cinestar Action (hr)
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26284
 #EXTINF:-1Cinestar Action (sr)
-Cinestar Action (sr)
+
 #EXTINF:-1Cinestar Comedy
-Cinestar Comedy
+
 #EXTINF:-1,Cinestar Fantasy
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26283
 #EXTINF:-1,Cinestar Premiere 1
@@ -34,9 +34,9 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26281
 #EXTINF:-1,Comedy Central Extra [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
 http://92.60.230.202:3054/udp/239.1.1.125:22125
 #EXTINF:-1,Diva [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
-http://92.60.230.202:3054/udp/239.1.1.123:22123
+http://93.138.100.70:4001/play/a00z/index.m3u8
 #EXTINF:-1Epic Drama
-Epic Drama
+
 #EXTINF:-1Eurochannel HD
 http://176.67.211.6:15000/udp/239.1.1.26:22026
 #EXTINF:-1,FilmBox Extra
@@ -46,9 +46,9 @@ http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/96083
 #EXTINF:-1FilmBox Premium [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
 http://37.26.71.125:9010/play/gamtodj6/index.m3u8
 #EXTINF:-1Film Klub
-Film Klub
+
 #EXTINF:-1Film Klub Extra
-Film Klub Extra
+
 #EXTINF:-1,FOX
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26280
 #EXTINF:-1FOX FHD
@@ -62,7 +62,7 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26278
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26277
 #EXTINF:-1FOX Movies FHD
 #EXTINF:-1FOX Business HD
-FOX Business HD
+
 #EXTINF:-1,Green TV
 http://195.154.179.33:12974/live/balkangreen/EDfdoh5oWN/12.ts
 #EXTINF:-1HBO HD
@@ -74,39 +74,39 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26275
 #EXTINF:-1HBO 2
 http://portal.geniptv.com:8080/live/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4572.m3u8
 #EXTINF:-1HBO 3 HD
-HBO 3 HD
+
 #EXTINF:-1,HBO 3 HD
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26274
 #EXTINF:-1HBO Family HD
-HBO Family HD
+
 #EXTINF:-1HBO Go HD
-HBO Go HD
+
 #EXTINF:-1IFilm Balkan
-IFilm Balkan
+
 #EXTINF:-1,Kino TV
 http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/192670
 #EXTINF:-1,Klasik TV
 https://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1KSPORT NOVI FILM
-KSPORT NOVI FILM
+
 #EXTINF:-1,M1 Film
 http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/117259
 #EXTINF:-1,M1 Gold
 http://89.111.194.194:8080/M1Gold/mpegts
 #EXTINF:-1MAX Action
-MAX Action
+
 #EXTINF:-1Nova Cinema
-Nova Cinema
+
 #EXTINF:-1Nova Family
-Nova Family
+
 #EXTINF:-1Pickbox TV HD
-Pickbox TV HD
+
 #EXTINF:-1Pickbox 1 HD
-Pickbox 1 HD
+
 #EXTINF:-1Pickbox 2 HD
-Pickbox 2 HD
+
 #EXTINF:-1Pickbox 3 HD
-Pickbox 3 HD
+
 #EXTINF:-1,Pink Action
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26149
 #EXTINF:0,Pink Classic
@@ -134,13 +134,13 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26129
 #EXTINF:-1,Pink Soap
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26128
 #EXTINF:-1Pink Thriller
-Pink Thriller
+
 #EXTINF:-1,Pink Western
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26127
 #EXTINF:-1,Pink World Cinema
 http://92.60.230.202:3054/udp/239.1.1.180:22180
 #EXTINF:-1Premium Film
-Premium Film
+
 #EXTINF:-1Sci-Fi
 http://smarttv.tvviet.tv/live92/SciFi.m3u8?u=berecni&p=af306ade8b4d0cd75c9bdf24bd90826d5510c0fe0f19114a16e96e3b2fc779bc&token=VUzPt1WPZf53mz5g64gmtQ&channel=SciFi&e=1999999999
 #EXTINF:-1,Sci-Fi [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
@@ -148,9 +148,9 @@ http://92.60.230.202:3054/udp/239.1.1.122:22122
 #EXTINF:-1SciFi
 http://176.67.211.6:15000/udp/239.1.1.122:22122
 #EXTINF:-1Star tv
-Star TV HD
+
 #EXTINF:-1SuperStar TV HD
-SuperStar TV HD
-#EXTINF:-1,TV 1000
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65328
+
+#EXTINF:-1,TV 1000 [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
+http://93.138.100.70:4001/play/a012/index.m3u8
 #EXTINF:-1TEST
