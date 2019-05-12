@@ -1,4 +1,4 @@
-#EXTM3U
+
 http://tvprofil.net/img/kanali-logo/htv1-logo.png",HRT 1
 https://tv.si/ts/HRT1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 http://tvprofil.net/img/kanali-logo/htv1-logo.png"HRT 1 (L2)
@@ -6,7 +6,7 @@ http://195.29.70.82/PLTV/88888888/224/3221226139/04.m3u8|User-agent=Mozilla/5.0(
 http://tvprofil.net/img/kanali-logo/htv2-logo.png",HRT 2
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
 http://tvprofil.net/img/kanali-logo/htv2-logo.png"HRT 2 HD
-HRT 2 HD
+
 https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png",HRT 3
 http://195.29.70.82/PLTV/88888888/224/3221226280/04.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
 http://tvprofil.net/img/kanali-logo/hrt4-logo.png",HRT 4
@@ -26,7 +26,7 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26186
 http://tvprofil.net/img/kanali-logo/RTL_Passion_logo.png",RTL Passion
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26185
 #EXTINF:-1RTL World
-RTL World
+
 #EXTINF:-1,Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 #EXTINF:-1,Nova TV (L2)
@@ -34,61 +34,61 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26192
 #EXTINF:-1,Nova TV HD
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26191
 #EXTINF:-1Nova World
-Nova World
+
 #EXTINF:-1,Doma TV
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26200
 #EXTINF:-1,Doma TV HD
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26199
 #EXTINF:-1,Banovina TV
-rtmp://video.radio-banovina.hr/live/myStream
+
 #EXTINF:-1Capital TV
-Capital TV
+
 #EXTINF:-1,CMC
 https://tv.si/ts/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1DMC TV
-DMC TV
+
 #EXTINF:-1HIT TV
-HIT TV
+
 #EXTINF:-1HTV Oscar
-HTV Oscar
+
 #EXTINF:-1Jabuka TV
-Jabuka TV
+
 #EXTINF:-1,Jugoton TV
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26171
 #EXTINF:-1Kanal Ri
-Kanal Ri
+
 #EXTINF:-1Laudato TV
-Laudato TV
+
 #EXTINF:-1Mreža TV
-Mreza TV
+
 #EXTINF:-1,N1 HR
 http://best.str.n1info.com:8080/stream?stream=1mb&channel=n1hr&sp=n1info&u=n1info&p=n1Sh4redSecre7iNf0&player=
 #EXTINF:-1Narodna TV
-Narodna TV
+
 #EXTINF:0,NB Comedy Channel
 http://195.29.70.82/PLTV/88888888/224/3221226407/index.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
 #EXTINF:-1,Osjeèka TV
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26190
 #EXTINF:-1Poljoprivredna TV
-Poljoprivredna TV
+
 #EXTINF:-1,Slavonska TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1Srce TV
-Srce TV
+
 #EXTINF:-1Trend TV Karlovac
-rtmp://185.62.75.22:1935/trend
+
 #EXTINF:-1TV Jadran
-TV Jadran
+
 #EXTINF:-1TV Istra
-TV Istra
+
 #EXTINF:-1,Vinkovaèka TV
 http://www.sansat.net:25461/jack0415m64/OZSls099gX/26250
 #EXTINF:-1VTV Varaždin
-VTV Varazdin
+
 #EXTINF:-1,Z1
 http://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
 #EXTINF:-1Zdrava Tv
-Zdrava Tv
+
 #EXTINF:-1test
 https://www.youtube.com/watch_videos?video_ids=N6sY-g0-GEQ
 #EXTINF:-1test 2
