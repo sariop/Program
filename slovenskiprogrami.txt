@@ -1,4 +1,4 @@
-#EXTM3U
+
 http://tvprofil.net/img/kanali-logo/rtv-slo1-logo.png",[COLOR pink]Slovenia>[/COLOR] SLO 1
 https://tv.si/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 http://tvprofil.net/img/kanali-logo/rtv-slo2-logo.png",[COLOR pink]Slovenia>[/COLOR] SLO 2
