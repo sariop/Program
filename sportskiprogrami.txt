@@ -15,25 +15,21 @@
 #EXTINF:-1Arena Sport 1 HD (hr) 
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/18.ts|User-Agent=sportstv
 #EXTINF:-1,Arena Sport 1 HD (hr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26125
-#EXTINF:-1,Arena Sport 1 HD (hr) L2
-http://gatoriptv.co:80/913616510264/sxQZP0pSibxcKvp/39910
-#EXTINF:-1,Arena Sport 1 HD (hr) L3
-http://bb1.sendevrc.com:80/n5rgG99vMB/5okKvXyLdP/1
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26125
 #EXTINF:-1Arena Sport 2 HD (hr)
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/19.ts|User-Agent=sportstv
 #EXTINF:-1,Arena Sport 2 HD (hr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26122
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26122
 #EXTINF:-1,Arena Sport 3 HD (hr)
 http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/516
 #EXTINF:-1Arena Sport 4 HD (hr)
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/21.ts|User-Agent=sportstv
 #EXTINF:-1,Arena Sport 4 HD (hr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26116
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26116
 #EXTINF:-1Arena Sport 5 HD (hr)
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/776.ts|User-Agent=sportstv
 #EXTINF:-1,Arena Sport 5 HD (hr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26113
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26113
 #EXTINF:-1,Arena Sport 6 HD (hr)
 http://bb1.sendevrc.com:80/n5rgG99vMB/5okKvXyLdP/17394
 #EXTINF:-1Arena Sport 6 HD (hr)
@@ -41,39 +37,39 @@ http://bb1.sendevrc.com:80/n5rgG99vMB/5okKvXyLdP/17394
 #EXTINF:-1,Arena Sport 1 (sr)
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/74
 #EXTINF:-1,Arena Sport 1 HD (sr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26123
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26123
 #EXTINF:-1,Arena Sport 2 (sr)
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/75
 #EXTINF:-1,Arena Sport 2 HD (sr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26120
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26120
 #EXTINF:-1,Arena Sport 3 (sr)
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/76
 #EXTINF:-1Arena Sport 3 HD (sr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26117
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26117
 #EXTINF:-1,Arena Sport 4 (sr)
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/77
 #EXTINF:-1,Arena Sport 4 HD (sr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26114
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26114
 #EXTINF:-1,Arena Sport 5 (sr)
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/78
 #EXTINF:-1Arena Sport 5 HD (sr)
 
 #EXTINF:-1,BH Premijer Liga
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26108
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26108
 #EXTINF:-1,Eurosport 1
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26111
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26111
 #EXTINF:-1,Eurosport 2
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26110
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26110
 #EXTINF:-1Box Nation
 
 #EXTINF:-1FightBox
 
 #EXTINF:-1,Fight Channel
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26109
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26109
 #EXTINF:-1Fight Network
 
 #EXTINF:-1,HNTV
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26301
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26301
 #EXTINF:-1HNTV (L2)
 
 #EXTINF:-1Kreator TV HD
@@ -81,27 +77,27 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26301
 #EXTINF:-1SOS Kanal
 
 #EXTINF:-1,Sport Klub HD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26097
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26097
 #EXTINF:-1,Sport Klub Start
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26291
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26291
 #EXTINF:-1,Sport Klub 1 HD (hr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26107
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26107
 #EXTINF:-1,Sport Klub 2 HD (hr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26290
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26290
 #EXTINF:-1,Sport Klub 3 HD (hr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26102
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26102
 #EXTINF:-1,Sport Klub 1 (sr) HD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26105
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26105
 #EXTINF:-1,Sport Klub 2 (sr) HD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26103
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26103
 #EXTINF:-1,Sport Klub 3 (sr) HD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26101
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26101
 #EXTINF:-1,Sport Klub 4
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26100
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26100
 #EXTINF:-1,Sport Klub 5
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26099
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26099
 #EXTINF:-1,Sport Klub 6
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26098
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26098
 #EXTINF:-1Sport Klub 7 (Only Match Time)
 
 #EXTINF:-1Sport Klub 8 (Only Match Time)
@@ -113,7 +109,7 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26098
 #EXTINF:-1,Sport Klub Golf HD
 http://141.136.9.114:8097/play/a028
 #EXTINF:-1,Sport Klub 1 (slo)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26106
+http://www.sansat.net:25461/k7at6fg2/6W8ZjpFOEq/26106
 #EXTINF:-1Sport Klub 2 (slo)
 
 #EXTINF:-1Sport Klub 3 (slo)
