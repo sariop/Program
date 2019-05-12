@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:-1,BeIN SPORTS 4K
 http://iptv.iptv1923.com:8080/mucahid/chalette4558/3949
 #EXTINF:-1,BeIN SPORTS UHD+
