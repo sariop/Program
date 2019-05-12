@@ -1,10 +1,10 @@
-
+#EXTM3U
 #EXTINF:-1A1 Cinema
 http://178.132.6.97:8080/A1Cinema1/index.m3u8
 #EXTINF:-1,AMC [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
 http://93.138.100.70:4001/play/a014/index.m3u8
 #EXTINF:-1,AXN
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26287
+
 #EXTINF:-1,AXN Spin [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
 http://92.60.230.202:3054/udp/239.1.1.137:22137
 #EXTINF:-1Cinema TV
@@ -12,25 +12,25 @@ http://92.60.230.202:3054/udp/239.1.1.137:22137
 #EXTINF:-1Cinemania
 
 #EXTINF:-1,Cinemax 1
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26286
+
 #EXTINF:-1,Cinemax 2
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26285
+
 #EXTINF:-1,Cinestar TV (hr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26302
+
 #EXTINF:-1Cinestar TV (sr) [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
 http://37.26.71.125:9010/play/a03r/index.m3u8
 #EXTINF:-1,Cinestar Action (hr)
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26284
+
 #EXTINF:-1Cinestar Action (sr)
 
 #EXTINF:-1Cinestar Comedy
 
 #EXTINF:-1,Cinestar Fantasy
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26283
+
 #EXTINF:-1,Cinestar Premiere 1
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26282
+
 #EXTINF:-1,Cinestar Premiere 2
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26281
+
 #EXTINF:-1,Comedy Central Extra [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
 http://92.60.230.202:3054/udp/239.1.1.125:22125
 #EXTINF:-1,Diva [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
@@ -40,9 +40,9 @@ http://93.138.100.70:4001/play/a00z/index.m3u8
 #EXTINF:-1Eurochannel HD
 http://176.67.211.6:15000/udp/239.1.1.26:22026
 #EXTINF:-1,FilmBox Extra
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65456
+
 #EXTINF:-1,FilmBox Plus
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/96083
+
 #EXTINF:-1FilmBox Premium [COLOR lime](Potrebno je ukljuèiti prijevod)[/COLOR]
 http://37.26.71.125:9010/play/gamtodj6/index.m3u8
 #EXTINF:-1Film Klub
@@ -50,33 +50,33 @@ http://37.26.71.125:9010/play/gamtodj6/index.m3u8
 #EXTINF:-1Film Klub Extra
 
 #EXTINF:-1,FOX
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26280
+
 #EXTINF:-1FOX FHD
 #EXTINF:-1,FOX Crime
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26279
+
 #EXTINF:-1FOX Crime FHD
 #EXTINF:-1,FOX Life
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26278
+
 #EXTINF:-1FOX Life FHD
 #EXTINF:-1,FOX Movies
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26277
+
 #EXTINF:-1FOX Movies FHD
 #EXTINF:-1FOX Business HD
 
 #EXTINF:-1,Green TV
-http://195.154.179.33:12974/live/balkangreen/EDfdoh5oWN/12.ts
+
 #EXTINF:-1HBO HD
 http://maksitv.iptvposokuca.info:80/live?channelId=192&uid=125&deviceUser=bojanpodnovlje&devicePass=proba
 #EXTINF:-1,HBO HD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26276
+
 #EXTINF:-1,HBO 2 HD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26275
+
 #EXTINF:-1HBO 2
 http://portal.geniptv.com:8080/live/cciptv.multimedia/rfew34tgervb4zzxZZZZZ/4572.m3u8
 #EXTINF:-1HBO 3 HD
 
 #EXTINF:-1,HBO 3 HD
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26274
+
 #EXTINF:-1HBO Family HD
 
 #EXTINF:-1HBO Go HD
@@ -84,13 +84,13 @@ http://www.sansat.net:25461/jack0415m64/OZSls099gX/26274
 #EXTINF:-1IFilm Balkan
 
 #EXTINF:-1,Kino TV
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/192670
+
 #EXTINF:-1,Klasik TV
 https://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1KSPORT NOVI FILM
 
 #EXTINF:-1,M1 Film
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/117259
+
 #EXTINF:-1,M1 Gold
 http://89.111.194.194:8080/M1Gold/mpegts
 #EXTINF:-1MAX Action
@@ -108,35 +108,35 @@ http://89.111.194.194:8080/M1Gold/mpegts
 #EXTINF:-1Pickbox 3 HD
 
 #EXTINF:-1,Pink Action
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26149
+
 #EXTINF:0,Pink Classic
 http://92.60.230.202:3054/udp/239.1.1.184:22184
 #EXTINF:-1,Pink Comedy
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26148
+
 #EXTINF:-1,Pink Crime & Mystery
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26147
+
 #EXTINF:-1,Pink Family
 http://92.60.230.202:3054/udp/239.1.1.161:22161
 #EXTINF:-1,Pink Film
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26145
+
 #EXTINF:-1,Pink Horror
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26142
+
 #EXTINF:-1,Pink Movies
 http://92.60.230.202:3054/udp/239.1.1.178:22178
 #EXTINF:-1,Pink Premium
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26133
+
 #EXTINF:-1,Pink Romance
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26131
+
 #EXTINF:-1,Pink Sci-Fi & Fantasy
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26130
+
 #EXTINF:-1,Pink Serije
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26129
+
 #EXTINF:-1,Pink Soap
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26128
+
 #EXTINF:-1Pink Thriller
 
 #EXTINF:-1,Pink Western
-http://www.sansat.net:25461/jack0415m64/OZSls099gX/26127
+
 #EXTINF:-1,Pink World Cinema
 http://92.60.230.202:3054/udp/239.1.1.180:22180
 #EXTINF:-1Premium Film
